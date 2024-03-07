@@ -1,0 +1,21 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Practicing JavaScript for interview",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hinn1411/js-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hinn1411/js-practice/issues"
+  },
+  "homepage": "https://github.com/hinn1411/js-practice#readme"
+}
